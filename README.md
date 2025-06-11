@@ -4,7 +4,7 @@ Belajar Auth (Authentication &amp; Authorization) dengan Javascript, tech yang d
 - MERN stack
 - JWT untuk authorization
 - CORS untuk melimitasi API
-- CRON untuk update secara otomatis mongodb
+- Node-CRON untuk update secara otomatis mongodb
 - Nodemailer untuk mengirim verification code
 - Bcrypt untuk hashing password
 
